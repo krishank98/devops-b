@@ -6,3 +6,5 @@ https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/iis/?view=aspnetcor
 https://www.loganalyzer.net/log-analysis/iis-log-files.html
 
 https://quickfever.com/install-google-chrome-windows-server-2019/
+
+https://docs.microsoft.com/en-us/iis/manage/provisioning-and-managing-iis/managing-iis-log-file-storage
